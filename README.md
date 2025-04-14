@@ -1,4 +1,9 @@
 # ESP32 Iron Safety Switch
+![WhatsApp Image 2025-04-14 at 22 48 34 (1)](https://github.com/user-attachments/assets/2dcec8e9-bda4-4b79-8568-7c7fec563df3)
+![WhatsApp Image 2025-04-14 at 22 48 35 (1)](https://github.com/user-attachments/assets/d11ca4df-f949-40bc-8c57-dbb92d8f40ee)
+![WhatsApp Image 2025-04-14 at 22 48 35 (2)](https://github.com/user-attachments/assets/8034f688-883c-4e4b-9e80-34bb83d69744)
+
+
 
 ## Overview
 
